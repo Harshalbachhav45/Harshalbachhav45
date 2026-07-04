@@ -43,3 +43,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Harshalbachhav45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshalbachhav45&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
