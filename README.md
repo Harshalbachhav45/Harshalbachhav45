@@ -15,3 +15,13 @@
 🚀 Passionate about **Web Development, AI, Backend Development, and Open Source**
 
 📍 India
+
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,java,cs,dotnet,python,django,fastapi,mysql,git,github,vscode,postman" />
+
+</p>
