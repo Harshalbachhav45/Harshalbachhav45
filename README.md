@@ -28,8 +28,10 @@
 
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshalbachhav45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshalbachhav45&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshalbachhav45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ## 🔥 GitHub Streak
